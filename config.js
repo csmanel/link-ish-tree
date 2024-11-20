@@ -1,6 +1,7 @@
 export const config = {
   avatar: 'https://avatars.githubusercontent.com/u/68690233',
-  bgColor: '#18181b',
+  bgImage:
+    'https://drive.google.com/uc?export=view&id=11V2lFq6Ao66QA53l18SSuDMJgK9tYajN',
   textColor: '#d4d4d8',
   iconColor: '#d4d4d8',
   name: 'cole',
